@@ -1,10 +1,22 @@
 ---
 title: "maggiemoss96"
+image: kona.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/maggiejmoss/
+    - text: GitHub
+      href: https://github.com/maggiemoss96
+    - text: Email
+      href: mailto:maggie.moss@colostate.edu
 ---
 
-This is a Quarto website.
+Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Experience
 
 ```{r}
 1 + 1
