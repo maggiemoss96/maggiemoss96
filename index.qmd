@@ -1,17 +1,20 @@
 ---
 title: "Maggie Moss"
-image: kona.png
-about: 
-  template: trestles
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/maggiejmoss/
-    - text: GitHub
-      href: https://github.com/maggiemoss96
-    - text: Email
-      href: mailto:maggie.moss@colostate.edu
+image: 
+---
+
+![](images/2025_ProfilePic.jpg)
+about:
+template: jolla
+image-shape: rounded
+image-width: 15em
+links:
+ - text: LinkedIn
+href: https://www.linkedin.com/in/maggiejmoss/
+ - text: GitHub
+href: https://github.com/maggiemoss96
+ - text: Email
+href: mailto:maggie.moss\@colostate.edu
 ---
 
 **News & Updates**
