@@ -1,6 +1,6 @@
 ---
 title: "Maggie Moss"
-image: 2025_ProfilePic.jpg
+image: /Users/maggiemoss/maggiemoss96/images/2025_ProfilePic.jpg
 ---
 
 about:
