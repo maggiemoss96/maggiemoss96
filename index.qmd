@@ -1,9 +1,8 @@
 ---
 title: "Maggie Moss"
-image: 
+image: 2025_ProfilePic.jpg
 ---
 
-![](images/2025_ProfilePic.jpg)
 about:
 template: jolla
 image-shape: rounded
