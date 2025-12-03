@@ -3,10 +3,8 @@ title: "Maggie Moss"
 subtitle: "Volcanology • Petrology • Geochemistry"
 image: 2025_ProfilePic.jpg
 
-# Hero banner
 title-block-banner: true
 
-# About section styling
 about:
   template: jolla
   image-shape: rounded

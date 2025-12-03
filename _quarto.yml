@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Maggie Moss"
-  favicon: favicon.png   # optional — remove if you don't have one
+  favicon: favicon.png
   navbar:
     left:
       - text: Home
