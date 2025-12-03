@@ -13,11 +13,6 @@ website:
       - Teaching Page.qmd
       - CV Page.qmd
 
-page-footer:
-    center: |
-      © 2025 Maggie Moss • Built with Quarto  
-      <a href="https://github.com/maggiemoss96/maggiemoss96.github.io">Site Source</a>  
-
 format:
   html:
     theme: cosmo
