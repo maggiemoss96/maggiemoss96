@@ -16,71 +16,11 @@ about:
       href: mailto:maggie.moss@colostate.edu
 ---
 
-[**News & Updates**](---
-title: "Maggie Moss"
-subtitle: "Volcanology • Petrology • Geochemistry"
-image: 2025_ProfilePic.jpg
+**News & Updates**
 
-# Hero banner
-title-block-banner: true
+Moss will present an abstract of her research, Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano, at the American Geophysical Union Annual Meeting on 12/18
 
-# About section styling
-about:
-  template: jolla
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/maggiejmoss/
-    - text: GitHub
-      href: https://github.com/maggiemoss96
-    - text: Email
-      href: mailto:maggie.moss@colostate.edu
----)
-
-[Moss will present an abstract of her research, Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano, at the American Geophysical Union Annual Meeting on 12/18](---
-title: "Maggie Moss"
-subtitle: "Volcanology • Petrology • Geochemistry"
-image: 2025_ProfilePic.jpg
-
-# Hero banner
-title-block-banner: true
-
-# About section styling
-about:
-  template: jolla
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/maggiejmoss/
-    - text: GitHub
-      href: https://github.com/maggiemoss96
-    - text: Email
-      href: mailto:maggie.moss@colostate.edu
----)
-
-[Moss will present with Dr. Xiaotao Yang on Akutan Volcano at the SZ4D-supported workshop "Research Prioritization in the Alaska-Aleutian Arc" on 12/14](---
-title: "Maggie Moss"
-subtitle: "Volcanology • Petrology • Geochemistry"
-image: 2025_ProfilePic.jpg
-
-# Hero banner
-title-block-banner: true
-
-# About section styling
-about:
-  template: jolla
-  image-shape: rounded
-  image-width: 15em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/maggiejmoss/
-    - text: GitHub
-      href: https://github.com/maggiemoss96
-    - text: Email
-      href: mailto:maggie.moss@colostate.edu
----)
+Moss will present with Dr. Xiaotao Yang on Akutan Volcano at the SZ4D-supported workshop "Research Prioritization in the Alaska-Aleutian Arc" on 12/14
 
 ```{r}
 1 + 1
