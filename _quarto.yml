@@ -4,31 +4,19 @@ project:
 
 website:
   title: "Maggie Moss"
-  image: 2025_ProfilePic.jpg
   navbar:
     left:
-      - text: Home
-        href: index.qmd
-      - text: About
-        href: about.qmd
-      - text: Research
-        href: research.qmd
-      - text: Teaching
-        href: teaching.qmd
-      - text: CV
-        href: cv.qmd
-    right:
-      - icon: github
-        href: https://github.com/maggiemoss96
-      - icon: linkedin
-        href: https://www.linkedin.com/in/maggiejmoss/
-      - icon: envelope
-        href: mailto:maggie.moss@colostate.edu
+      - href: index.qmd
+        text: Home
+      - About Page.qmd
+      - Research Website Page.qmd
+      - Teaching Page.qmd
+      - CV Page.qmd
 
-  page-footer:
+page-footer:
     center: |
       © 2025 Maggie Moss • Built with Quarto  
-      <a href="https://github.com/maggiemoss96/maggiemoss96.github.io">Site Source</a>
+      <a href="https://github.com/maggiemoss96/maggiemoss96.github.io">Site Source</a>      
 
 format:
   html:
@@ -39,3 +27,4 @@ format:
     toc: true
 
 editor: visual
+
