@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Maggie Moss"
-  favicon: favicon.png
+  image: 2025_ProfilePic.jpg
   navbar:
     left:
       - text: Home
