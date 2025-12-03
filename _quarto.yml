@@ -13,6 +13,14 @@ website:
       - Teaching Page.qmd
       - CV Page.qmd
 
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
 page-footer:
     center: |
       © 2025 Maggie Moss • Built with Quarto  
