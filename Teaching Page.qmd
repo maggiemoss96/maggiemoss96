@@ -1,10 +1,8 @@
-## 
-
 ---
 title: "Teaching"
 ---
 
-## Teaching Philosophy
+# Teaching Philosophy {style="color: #38607a"}
 
 -   ​Engage students through immersive, field-centered instruction to convey geologic concepts using real-world examples drawn from active volcanic systems
 
@@ -22,7 +20,7 @@ title: "Teaching"
 
 The field team in Yellowstone National Park, navigating a backcountry traverse on-trail (Backcountry Permit 0720417254-1; Scientific Permit #8370). All research in Yellowstone must be sanctioned by a scientific permit issued through the National Park Service.
 
-# Experience
+# Experience {style="color: #38607a"}
 
 **Graduate Teaching Assistant** \
 **Colorado State University \| January 2025 – Present \| Fort Collins, CO** 
@@ -53,3 +51,13 @@ George Washington University \| Aug 2017 - Dec 2018 \| Washington, D.C. 
 
 -   In collaboration with tenured faculty, created laboratory curriculum for undergraduate introductory geology courses, gave weekly laboratory lectures in support of main lecture topics, and graded lab assignments and final exams.  
 -   Served as laboratory learning support for undergraduate students in Mineralogy and Igneous & Metamorphic Petrology courses, and assisted professors with grading lab assignments. 
+
+# Outreach {style="color: #38607a"}
+
++-----------------------------------------------------------------+
+| -   2025, Research Associate, Denver Museum of Nature & Science |
+|                                                                 |
+| -   2024-Present, Volunteer, Charis Youth Ranch                 |
+|                                                                 |
+| -   2018-2021, Program Director, Out for Undergrad              |
++-----------------------------------------------------------------+

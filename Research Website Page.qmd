@@ -6,7 +6,7 @@ format:
     page-layout: article
 ---
 
-# (1) Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano
+# (1) Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano {style="color: #38607a"}
 
 *Moss, M., Myers, M., Mark, H., Yang, X., Cheng, Y., Gapenthin, R., Lizik, Y., Portner, D., Lee, D., Wu, S., Larsen, J., Coombs, M., Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano. AGU Fall Meeting, New Orleans, LA, December 2025. (First Author, Presenting)* 
 
@@ -19,6 +19,6 @@ Figure 1. Mogi source modelling result of surface inflation events at Akutan vol
 
 ![](images/Akutan-Final-simple.gif)Figure 2. Animation showing magma dynamics of Akutan volcano between 1992 (last confirmed eruption) and 2024. This figure synthesizes seismic, geodetic, petrologic, and geochemical data to create the first unified model of the volcano's magmatic system.
 
-# (2) Dissertation: Igneous petrology, geochemistry and geochronology of basaltic plumbing systems through time at the Yellowstone Plateau Volcanic Field 
+# (2) Dissertation: Igneous petrology, geochemistry and geochronology of basaltic plumbing systems through time at the Yellowstone Plateau Volcanic Field  {style="color: #38607a"}
 
-# (3) Field Guide to the Cascades Magmatic Arc (Forthcoming textbook in partnership with Dr. Richard Tollo, Elsevier publishing)
+# (3) Field Guide to the Cascades Magmatic Arc (Forthcoming textbook in partnership with Dr. Richard Tollo, Elsevier publishing) {style="color: #38607a"}
