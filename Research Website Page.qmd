@@ -6,6 +6,8 @@ format:
     page-layout: article
 ---
 
+Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano
+
 ![](images/Akutan-Magma-Pulses.gif){ fig-alt="Animated diagram of subsurface structures comprising the magmatic system beneath Akutan Volcano width = 60%
 
 }
