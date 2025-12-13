@@ -12,9 +12,6 @@ website:
       - Research Website Page.qmd
       - Teaching Page.qmd
       - CV Page.qmd
-    right: 
-      - icon: github
-      href: https://github.com/maggiemoss96
 
 format:
   html:
