@@ -1,7 +1,7 @@
 ---
 title: "Maggie Moss"
 subtitle: "Volcanology • Petrology • Geochemistry"
-image: 2025_ProfilePic.jpg
+image: images/2025_ProfilePic.jpg
 
 about:
   template: jolla
