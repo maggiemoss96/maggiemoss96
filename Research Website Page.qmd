@@ -15,11 +15,11 @@ format:
 
 ![](images/Akutan-Magma-Pulses.gif)
 
-\<figurecaption\>Figure 1. Mogi source modelling result of surface inflation events at Akutan volcano over time. Black boxes show locations of inferred magma pulses. Red stars show location of long-period seismic events that may indicate movement of fluids from deeper magmatic sources.\</figurecaption\>
+Figure 1. Mogi source modelling result of surface inflation events at Akutan volcano over time. Black boxes show locations of inferred magma pulses. Red stars show location of long-period seismic events that may indicate movement of fluids from deeper magmatic sources.
 
 ![](images/akutan_final_animated_model.gif)
 
-\<figurecaption\>Figure 2. Animation showing magma dynamics of Akutan volcano between 1992 (last confirmed eruption) and 2024. This figure synthesizes seismic, geodetic, petrologic, and geochemical data to create the first unified model of the volcano's magmatic system.\</figurecaption\>
+Figure 2. Animation showing magma dynamics of Akutan volcano between 1992 (last confirmed eruption) and 2024. This figure synthesizes seismic, geodetic, petrologic, and geochemical data to create the first unified model of the volcano's magmatic system.
 
 # (2) Dissertation: Igneous petrology, geochemistry and geochronology of basaltic plumbing systems through time at the Yellowstone Plateau Volcanic Field 
 
