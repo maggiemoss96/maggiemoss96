@@ -21,7 +21,3 @@ about:
 Moss will present an abstract of her research, Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano, at the American Geophysical Union Annual Meeting on 12/18
 
 Moss will present with Dr. Xiaotao Yang on Akutan Volcano at the SZ4D-supported workshop "Research Prioritization in the Alaska-Aleutian Arc" on 12/14
-
-```{r}
-1 + 1
-```
