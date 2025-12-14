@@ -1,0 +1,24 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.httr-oauth
+.DS_Store
+.quarto
+
+# GIS / shapefiles
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.sbn
+*.sbx
+
+# Large geospatial databases
+*.gdb
+*.gpkg
+
+.RDataTmp
+
+/.quarto/

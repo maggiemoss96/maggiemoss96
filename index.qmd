@@ -1,0 +1,25 @@
+---
+title: "Maggie Moss"
+subtitle: "Volcanology • Petrology • Geochemistry"
+image: images/2025_ProfilePic.jpg
+
+about:
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/maggiejmoss/
+    - text: GitHub
+      href: https://github.com/maggiemoss96
+    - text: Email
+      href: mailto:maggie.moss@colostate.edu
+---
+
+**News & Updates**
+
+Moss will present an abstract of her research, Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano, at the American Geophysical Union Annual Meeting on 12/18
+
+Moss will present with Dr. Xiaotao Yang on Akutan Volcano at the SZ4D-supported workshop "Research Prioritization in the Alaska-Aleutian Arc" on 12/14
+
+Moss won the 2025-2026 Jack Kleinman Memorial Grant for Volcanology to support her field work in Yellowstone National Park

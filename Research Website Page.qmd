@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+# (1) Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano {style="color: #38607a"}
+
+*Moss, M., Myers, M., Mark, H., Yang, X., Cheng, Y., Gapenthin, R., Lizik, Y., Portner, D., Lee, D., Wu, S., Larsen, J., Coombs, M., Petrologic and Geophysical Synthesis of the Magmatic System at Akutan Volcano. AGU Fall Meeting, New Orleans, LA, December 2025. (First Author, Presenting)* 
+
+[Abstract]{.underline}**:\
+**The integration of geophysical and petrological datasets remains a grand challenge in understanding the magmatic structures feeding volcanic systems. The multidisciplinary observations required to characterize a volcanic system span a wide range of temporal and spatial scales. Devising a holistic model for magmatic structures and processes requires placing these disparate pieces into a unified framework. Here we synthesize and reanalyze existing petrological and geophysical constraints for the magmatic system at Akutan, an active stratocone in the eastern Aleutian arc. Akutan has exhibited surface deformation continually since its first geodetic observations in the 1990s and produced significant seismic swarms between 1996 and 2010, with 26 known eruptions between 1900 and 1992. The results of reanalyzing seismic, geodetic, petrologic, and other data produce a coherent conceptual model of Akutan’s magma storage and transport processes, which is defined by: (1) A partial-melt body at 8-10 kmbsl, indicated by 1D velocity models, seismic tomography, seismicity, whole rock geochemical trends, melt-inclusion volatile contents, and magnetotelluric studies. This is also consistent with median pressures using pyroxene-only barometry. Conduit branches from the body to 0-5 km depth are also indicated.  (2) Island-wide pulses of centimeter-level geodetic deformation, deep, long-period earthquakes occurring beneath the storage depth, and hot erupted magmas that indicate frequent inputs from the deeper crust. Akutan stands as an example of a well-studied system where independent constraints converge on a consistent model for the underlying magmatic structure. Such convergence may not necessarily be observed at other Aleutian volcanoes. This work for Akutan builds on the NSF-PREEVENTS synthesis efforts at 5 other Aleutian volcanoes, offering a framework for integrating multidisciplinary observations to infer conceptual models for magmatic systems at active volcanoes. 
+
+![](images/Akutan-Magma-Pulses.gif)
+
+Figure 1. Mogi source modelling result of surface inflation events at Akutan volcano over time. Black boxes show locations of inferred magma pulses. Red stars show location of long-period seismic events that may indicate movement of fluids from deeper magmatic sources.
+
+![](images/Akutan-Final-simple.gif)Figure 2. Animation showing magma dynamics of Akutan volcano between 1992 (last confirmed eruption) and 2024. This figure synthesizes seismic, geodetic, petrologic, and geochemical data to create the first unified model of the volcano's magmatic system.
+
+# (2) Colorado Paleomaps - Denver Museum of Nature & Science Collaboration {style="color: #38607a"}
+
+<iframe src="https://maggiemoss96.shinyapps.io/colorado_rockunits_shiny/" width="100%" height="800" style="border:none;">
+
+</iframe>
+
+Map of Colorado showing rock types by mapped area. The SGMC database provides the foundation for the paleomapping project carried out by the Denver Museum.
+
+# (3) Dissertation: Igneous petrology, geochemistry and geochronology of basaltic plumbing systems through time at the Yellowstone Plateau Volcanic Field {style="color: #38607a"}
+
+# (4) Field Guide to the Cascades Magmatic Arc (Forthcoming textbook in partnership with Dr. Richard Tollo, Elsevier publishing) {style="color: #38607a"}
